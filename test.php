@@ -3,4 +3,6 @@
 // Test
 
 
+include ('lib.php');
+
 ?>
