@@ -6,4 +6,6 @@
 
 // New Line !!
 
+
+$data = $for + $new + $brunch
 ?>
